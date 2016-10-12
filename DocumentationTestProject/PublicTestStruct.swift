@@ -16,7 +16,7 @@ public struct PublicTestStruct {
         The only public method in this struct.
         - returns: An "optional" Int that's actually **always** nil.
      */
-    func publicMethod() -> Int? {
+    public func publicMethod() -> Int? {
         return nil
     }
     

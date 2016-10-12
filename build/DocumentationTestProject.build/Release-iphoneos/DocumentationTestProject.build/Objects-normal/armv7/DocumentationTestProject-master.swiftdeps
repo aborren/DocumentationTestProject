@@ -1,6 +1,6 @@
 version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
 options: "335836d2e8ec65fe75398fe35751d0e2"
-build_time: [529578934, 805354000]
+build_time: [529579289, 876843000]
 inputs:
   "/Users/dna/Documents/Personal Projects/DocumentationTestProject/DocumentationTestProject/PublicTestClass.swift": [9223372036854775807, 0]
   "/Users/dna/Documents/Personal Projects/DocumentationTestProject/DocumentationTestProject/PublicTestStruct.swift": [9223372036854775807, 0]
