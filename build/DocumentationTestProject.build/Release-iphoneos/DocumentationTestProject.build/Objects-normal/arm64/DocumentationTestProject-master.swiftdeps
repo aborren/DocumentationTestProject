@@ -1,0 +1,8 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "2df3235cf94c3f62ba48214beae2ac16"
+build_time: [529578930, 987978000]
+inputs:
+  "/Users/dna/Documents/Personal Projects/DocumentationTestProject/DocumentationTestProject/PublicTestClass.swift": [9223372036854775807, 0]
+  "/Users/dna/Documents/Personal Projects/DocumentationTestProject/DocumentationTestProject/PublicTestStruct.swift": [9223372036854775807, 0]
+  "/Users/dna/Documents/Personal Projects/DocumentationTestProject/DocumentationTestProject/ViewController.swift": [9223372036854775807, 0]
+  "/Users/dna/Documents/Personal Projects/DocumentationTestProject/DocumentationTestProject/AppDelegate.swift": [9223372036854775807, 0]
